@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-size: 5.6em;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: Roboto;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.circle {
+  border-radius: 100%
+}
+
+.soft {
+  text-decoration: underline;
+}
+
+.div1 {
+  position: relative;
+  padding-top: 100px;
+  background-color: #E4F9F5;
+}
+
+.profile {
+  position: relative;
+  margin: auto;
+  margin-bottom: 70px;
+  width: 75%;
+}
+
+.dp {
+  margin-top: 50px;
+  width: 200px;
+  height: 200px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.middle-container {
+  margin: 30px;
+  background-color: white;
+}
+
+.bottom-container {
+  padding: 50px;
+  background-color: #66BFBF;
+}
+
+.footer-link {
+  font-size: 30px;
+  text-decoration: none;
+  color: #11999E;
+  margin: 40px;
+}
+
+.skill-row {
+  display: inline;
+  line-height: 2;
+  text-align: left;
+}
+
+.skrw1 {
+  margin-right: 30px;
+  width: 135px;
+  display: inline-block;
+}
+
+.skill_test {
+  width: 450px;
+  display: inline-block;
+}
+
+.skrw2 {
+  margin-left: 30px;
+  width: 135px;
+  height: 100px;
+  display: inline-block;
+}
+
+#designation {
+  font-weight: normal;
+}
